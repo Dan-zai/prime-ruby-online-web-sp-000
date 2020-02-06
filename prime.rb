@@ -9,6 +9,6 @@ def prime?(int)
     while i < int
     if int % i == 0 
       return false
-      
+      break
       
   
