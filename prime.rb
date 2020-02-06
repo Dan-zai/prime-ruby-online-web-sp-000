@@ -14,5 +14,9 @@ def prime?(int)
       i += 1 
     end 
     
-  end
+  end 
+  
+  true
+  
+end
   
