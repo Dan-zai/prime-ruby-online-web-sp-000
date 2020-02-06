@@ -10,5 +10,9 @@ def prime?(int)
     if int % i == 0 
       return false
       break
-      
+    else 
+      i += 1 
+    end 
+    
+  end
   
