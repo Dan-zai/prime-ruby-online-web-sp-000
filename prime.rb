@@ -6,5 +6,6 @@ def prime?(int)
     i = 2
     
   else
-    while i 
+    while i < int
+    
   
